@@ -1,6 +1,6 @@
 # Spunky Babies
 
-Spunky Babies is a free online music game designed for young children, featuring adorable babies making cute sounds.  Introduce your little ones to the joy of music creation with this fun and interactive experience. Play Spunky Babies Now: [https://spunky.games/spunky-babies](https://spunky.games/spunky-babies)
+Spunky Babies is a free online music game designed for young children, featuring adorable babies making cute sounds.  Introduce your little ones to the joy of music creation with this fun and interactive experience. Play Spunky Babies Now: [spunky-babies](https://spunky.games/spunky-babies)
 
 ---
 
@@ -21,7 +21,7 @@ Spunky Babies is a browser-based music game created by Spunky Games, specificall
 
 ## How to Play Spunky Babies
 
-1. **Start the Game:** Visit [https://spunky.games/spunky-babies](https://spunky.games/spunky-babies) in your web browser.
+1. **Start the Game:** Visit [spunky-babies](https://spunky.games/spunky-babies) in your web browser.
 2. **Interact with the Babies:** Click or tap on the animated babies to trigger different sounds and musical notes.
 3. **Create Melodies:** Experiment with clicking on different babies in sequence to create simple melodies and rhythms.
 4. **Explore Different Sounds:** Discover a variety of sounds, from giggles and gurgles to musical instruments and vocals.
@@ -65,4 +65,4 @@ Spunky Babies is a browser-based music game created by Spunky Games, specificall
 ---
 
 
-Introduce your little ones to the joy of music with Spunky Babies! Play now: [https://spunky.games/spunky-babies](https://spunky.games/spunky-babies)
+Introduce your little ones to the joy of music with Spunky Babies! Play now: [spunky-babies](https://spunky.games/spunky-babies)
